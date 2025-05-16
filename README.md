@@ -1,4 +1,4 @@
-*If the selected data type is floating point number, you will use IEEE-like format. The number of
+*If the selected data type is floating point number, we will use IEEE-like format. The number of
 exponent bits according to given data size will be like the following:
 
 o if 1 byte (i.e., 8 bits), 4 bits will be used for exponent part
